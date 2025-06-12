@@ -19,7 +19,7 @@
 		"sanxing": false,
 		"google": false,
 		"oppo": false,
-		"other": false,
+		"other": true,
 		"huawei": false,
 		"honor": false,
 		"meizu": false,
